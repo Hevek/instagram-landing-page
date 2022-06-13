@@ -1,3 +1,3 @@
 # instagram-landing-page
 
-### Project made watching the DIO Flexbox Course
+Project made watching the DIO Flexbox Course
